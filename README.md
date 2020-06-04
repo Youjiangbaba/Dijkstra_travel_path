@@ -1,7 +1,7 @@
 # Dijkstra_travel_path
 实现结果图：
 
-![在这里插入图片描述](https://github.com/Youjiangbaba/Dijkstra_travel_path/blob/master/png/402.png)
+![在这里插入图片描述](https://github.com/Youjiangbaba/Dijkstra_travel_path/raw/master/png/402.png)
 
 ![在这里插入图片描述](https://github.com/Youjiangbaba/Dijkstra_travel_path/blob/master/png/403.png)
 
