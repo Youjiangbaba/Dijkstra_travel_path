@@ -17,5 +17,5 @@
 
 
 感谢[github-dijkstra最短路径规划](https://github.com/zz54165514/dijkstra)提供的最短路径规划案例分享；
-感谢[TSP-GA](https://github.com/Greatpanc/-TSP2-)的TSP-GA遗传算法的实现;
-本文代码[链接](https://github.com/Youjiangbaba/Dijkstra_travel_path)。
+
+感谢[TSP-GA](https://github.com/Greatpanc/-TSP2-)的TSP-GA遗传算法的实现。
